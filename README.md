@@ -81,13 +81,13 @@ python voice_emoji.py
 
 📚 Future Enhancements
 
-Integrate with Blynk or IoT platforms for physical emoji displays
+- Integrate with Blynk or IoT platforms for physical emoji displays
 
-Add multi-language support
+- Add multi-language support
 
-Improve accuracy using deep learning models
+- Improve accuracy using deep learning models
 
-Create a web-based interface
+- Create a web-based interface
 
 ---
 
@@ -96,7 +96,7 @@ Create a web-based interface
 Mounika Pothula
 📍 CSE Student @ Pragati Engineering College
 🎯 Aspiring Data Engineer & AI Enthusiast
-🔗 GitHub Profile[https://github.com/mounikapothula1106-creator]
+🔗 GitHub Profile[https://github.com/24A31A0597]
 
 
 ---
