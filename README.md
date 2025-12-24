@@ -14,9 +14,9 @@ It combines speech emotion recognition with emoji visualization to create an eng
 
 ## ⚙️ Features
 
-✔ Detects emotion from recorded voice input
-✔ Displays a matching emoji for the detected emotion
-✔ Real-time voice recording support
+✔ Detects emotion from recorded voice input  
+✔ Displays a matching emoji for the detected emotion  
+✔ Real-time voice recording support  
 ✔ Easy to use and lightweight Python application
 
 ---
