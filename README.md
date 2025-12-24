@@ -57,8 +57,7 @@ Voice-Based-Emoji-Reaction-Generator
 ### Run the main file
 
 - python voice_emoji.py
-
-### Speak into your mic 🎙️ — watch the emoji react based on your emotion 😄😢😡😱
+- Speak into your mic 🎙️ — watch the emoji react based on your emotion 😄😢😡😱
 
 ---
 
