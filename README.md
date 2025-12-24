@@ -1,20 +1,23 @@
 # 🎤 Voice-Based Emoji Reaction Generator
 
+VBERG (Voice-Based Emoji Reaction Generator) is a smart system that analyzes a user’s voice to detect emotions using machine learning. It then converts those emotions into relevant emojis in real time, making digital communication more expressive and interactive.
+
 ---
 
 ## 🧠 Overview
 
 The Voice-Based Emoji Reaction Generator is an AI-powered project that detects human emotions from voice input and generates a corresponding emoji as a visual reaction.
+
 It combines speech emotion recognition with emoji visualization to create an engaging and interactive experience.
 
 ---
 
 ## ⚙️ Features
 
-✅ Detects emotion from recorded voice input
-✅ Displays a matching emoji for the detected emotion
-✅ Real-time voice recording support
-✅ Easy to use and lightweight Python application
+✔ Detects emotion from recorded voice input
+✔ Displays a matching emoji for the detected emotion
+✔ Real-time voice recording support
+✔ Easy to use and lightweight Python application
 
 ---
 
@@ -30,10 +33,10 @@ It combines speech emotion recognition with emoji visualization to create an eng
 
 ## 📁 Project Structure
 
-Voice-Based-Emoji-Reaction-Generator/
- ── record.py                  # Records voice input
- ── voice_emoji.py             # Detects emotion and shows corresponding emoji
- ── README.md                  # Project documentation
+Voice-Based-Emoji-Reaction-Generator
+ ── record.py(Records voice input)
+ ── voice_emoji.py(Detects emotion and shows corresponding emoji)
+ ── README.md(Project documentation)
 
 ---
 
