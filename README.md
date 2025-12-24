@@ -42,27 +42,23 @@ Voice-Based-Emoji-Reaction-Generator
 
 ## 🚀 How to Run
 
-1. Clone the repository
+### Clone the repository
 
-git clone https://github.com/mounikapothula1106-creator/Voice-Based-Emoji-Reaction-Generator.git
+- git clone https://github.com/mounikapothula1106-creator/Voice-Based-Emoji-Reaction-Generator.git
 
+### Navigate to the project folder
 
-2. Navigate to the project folder
+- cd Voice-Based-Emoji-Reaction-Generator
 
-cd Voice-Based-Emoji-Reaction-Generator
+### Install the required dependencies
 
+- pip install -r requirements.txt
 
-3. Install the required dependencies
+### Run the main file
 
-pip install -r requirements.txt
+- python voice_emoji.py
 
-
-4. Run the main file
-
-python voice_emoji.py
-
-
-5. Speak into your mic 🎙️ — watch the emoji react based on your emotion 😄😢😡😱
+### Speak into your mic 🎙️ — watch the emoji react based on your emotion 😄😢😡😱
 
 ---
 
