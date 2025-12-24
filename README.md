@@ -1,13 +1,15 @@
-🎤 Voice-Based Emoji Reaction Generator
+# 🎤 Voice-Based Emoji Reaction Generator
 
-🧠 Overview
+---
+
+## 🧠 Overview
 
 The Voice-Based Emoji Reaction Generator is an AI-powered project that detects human emotions from voice input and generates a corresponding emoji as a visual reaction.
 It combines speech emotion recognition with emoji visualization to create an engaging and interactive experience.
 
 ---
 
-⚙️ Features
+## ⚙️ Features
 
 ✅ Detects emotion from recorded voice input
 ✅ Displays a matching emoji for the detected emotion
@@ -16,21 +18,17 @@ It combines speech emotion recognition with emoji visualization to create an eng
 
 ---
 
-🧩 Technologies Used
+## 🧩 Technologies Used
 
-Python
-
-SpeechRecognition – for capturing and processing voice input
-
-Librosa – for audio feature extraction
-
-Scikit-learn / TensorFlow (if used) – for emotion classification
-
-Matplotlib / Emojis / Tkinter (if used) – for displaying emojis
+- Python
+- SpeechRecognition – for capturing and processing voice input
+- Librosa – for audio feature extraction
+- Scikit-learn / TensorFlow (if used) – for emotion classification
+- Matplotlib / Emojis / Tkinter (if used) – for displaying emojis
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 Voice-Based-Emoji-Reaction-Generator/
  ── record.py                  # Records voice input
@@ -39,7 +37,7 @@ Voice-Based-Emoji-Reaction-Generator/
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 
@@ -65,21 +63,17 @@ python voice_emoji.py
 
 ---
 
-🧪 Detected Emotions
+## 🧪 Detected Emotions
 
-😄 Happy
-
-😢 Sad
-
-😡 Angry
-
-😱 Surprised
-
-😐 Neutral
+- 😄 Happy
+- 😢 Sad
+- 😡 Angry
+- 😱 Surprised
+- 😐 Neutral
 
 ---
 
-📚 Future Enhancements
+## 📚 Future Enhancements
 
 - Integrate with Blynk or IoT platforms for physical emoji displays
 
@@ -91,12 +85,11 @@ python voice_emoji.py
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Mounika Pothula
-📍 CSE Student @ Pragati Engineering College
-🎯 Aspiring Data Engineer & AI Enthusiast
-🔗 GitHub Profile[https://github.com/24A31A0597]
+- Mounika Pothula 📍 CSE Student @ Pragati Engineering College
+- 🎯 Aspiring Data Engineer & AI Enthusiast
+- 🔗 GitHub Profile[https://github.com/24A31A0597]
 
 
 ---
